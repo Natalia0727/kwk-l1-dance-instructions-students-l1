@@ -27,4 +27,5 @@ def Gangdam_Style
   puts "Bust a move"
   puts "Footwork"
   puts "Bob the reins + skip-steps x8"
-  
+  puts "Lasso + skip-steps x8"
+  Gangdam_Style
