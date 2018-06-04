@@ -26,4 +26,5 @@ def Gangdam_Style
   puts "Assume Stance"
   puts "Bust a move"
   puts "Footwork"
+  puts "Bob the reins + skip-steps x8"
   
