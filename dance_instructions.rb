@@ -15,4 +15,5 @@ def Gangdam_Style
   puts "Upper Body"
   puts "Bob The Reins"
   puts "Holding your arms out in front of you, straight and at chest level"
+  puts "Cross your right wrist over your left and hold them together"
   puts ""
