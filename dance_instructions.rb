@@ -11,4 +11,5 @@ def Gangdam_Style
   puts "Skip step right"
   puts "Lower right foot to the ground"
   puts "Bounce right foot back up slightly, kicking it a few inches back"
-  puts ""
+  puts "Right, Left, Right and Right"
+  
