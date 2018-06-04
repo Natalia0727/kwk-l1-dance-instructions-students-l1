@@ -1,4 +1,4 @@
-def Gangdam_Style
+def gangdam_Style
   puts "lower body"
   puts "1 Plant legs far apart, bend knees slightly and keep posture loose"
   puts "Lift right foot"
@@ -28,4 +28,4 @@ def Gangdam_Style
   puts "Footwork"
   puts "Bob the reins + skip-steps x8"
   puts "Lasso + skip-steps x8"
-  Gangdam_Style
+  gangdam_Style
