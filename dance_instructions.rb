@@ -12,4 +12,7 @@ def Gangdam_Style
   puts "Lower right foot to the ground"
   puts "Bounce right foot back up slightly, kicking it a few inches back"
   puts "Right, Left, Right and Right"
+  puts "Upper Body"
+  puts "Bob The Reins"
+  puts ""
   
