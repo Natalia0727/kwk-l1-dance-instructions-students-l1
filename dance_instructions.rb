@@ -5,4 +5,5 @@ def Gangdam_Style
   puts "Return right foot to the ground"
   puts "Finishing with a small skip-step backward"
   puts "skip-step left "
+  puts "Finishing with a small skip-step backward"
   puts ""
